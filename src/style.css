@@ -17,10 +17,10 @@ h2 {
 }
 
 .app-header {
-    display: flex;/*shfaq toggle dhe button ne te njejtin rresht*/
-    justify-content: space-between; /*vendos toggle ne te majte dhe button ne te djathte*/
-    align-items: center; /*qenderzon te dy elementet*/
-    margin-bottom: 10px; /*10px larg me elementet qe vijne poshte tyre*/
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
 }
 
 .toggle-container {
